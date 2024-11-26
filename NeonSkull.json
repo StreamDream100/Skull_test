@@ -4,72 +4,30 @@
 			"image": "NeonSkull.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 2738,
-				"h": 2874
+				"w": 1296,
+				"h": 506
 			},
 			"scale": 1,
 			"frames": [
-				{
-					"filename": "Fade.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 1109,
-						"h": 1177
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 1109,
-						"h": 1177
-					},
-					"frame": {
-						"x": 0,
-						"y": 0,
-						"w": 1109,
-						"h": 1177
-					}
-				},
-				{
-					"filename": "Fill.png",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 1079,
-						"h": 1152
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 1079,
-						"h": 1152
-					},
-					"frame": {
-						"x": 1369,
-						"y": 0,
-						"w": 1079,
-						"h": 1152
-					}
-				},
 				{
 					"filename": "glow.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 1369,
-						"h": 1437
+						"w": 480,
+						"h": 504
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 1369,
-						"h": 1437
+						"w": 480,
+						"h": 504
 					},
 					"frame": {
-						"x": 0,
-						"y": 1437,
-						"w": 1369,
-						"h": 1437
+						"x": 1,
+						"y": 1,
+						"w": 480,
+						"h": 504
 					}
 				},
 				{
@@ -77,20 +35,41 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 1228,
-						"h": 1296
+						"w": 430,
+						"h": 454
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 1228,
-						"h": 1296
+						"w": 430,
+						"h": 454
 					},
 					"frame": {
-						"x": 1369,
-						"y": 1437,
-						"w": 1228,
-						"h": 1296
+						"x": 483,
+						"y": 1,
+						"w": 430,
+						"h": 454
+					}
+				},
+				{
+					"filename": "Fill.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 380,
+						"h": 405
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 380,
+						"h": 405
+					},
+					"frame": {
+						"x": 915,
+						"y": 1,
+						"w": 380,
+						"h": 405
 					}
 				}
 			]
@@ -99,6 +78,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:d7b66d7a7d52e5a7258d0238736dcfa5:4d4f8dcf26840367fbf349e5f61f4c80:f594917786531905ef7241bff2f1bc96$"
+		"smartupdate": "$TexturePacker:SmartUpdate:a626c0149f5194818c6087c6e2c67e0f:8ce429d73888df2301a00f14e5cdf876:f594917786531905ef7241bff2f1bc96$"
 	}
 }
